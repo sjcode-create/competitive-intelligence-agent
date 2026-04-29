@@ -20,7 +20,7 @@ jobs:
       
       - name: Install dependencies
         run: |
-          pip install openai requests beautifulsoup4 gspread google-auth google-oauth2 google-auth-oauthlib
+          pip install openai requests beautifulsoup4 gspread google-auth google-auth-httplib2 google-auth-oauthlib
       
       - name: Run agent
         env:
