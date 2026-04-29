@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1wxXkm7LVWwmmavvS5pTlqYeacxd6NCMm
 """
 
-!pip install openai requests beautifulsoup4 gspread
 
 import requests
 from bs4 import BeautifulSoup
