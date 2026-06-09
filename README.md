@@ -11,7 +11,7 @@ The agent scrapes competitor websites and G2 review data, uses an LLM to summari
 1. Scrapes target competitor websites and their G2 review pages
 2. Parses the raw content into usable text
 3. Sends the content to an LLM to extract and structure the key signals
-4. Writes a formatted intelligence report to a Google Sheet
+4. Writes a formatted intelligence report to a Google Sheet https://docs.google.com/spreadsheets/d/1EoPdK1gAeNhPQQcLixKECNCneL5gj0svWq5yPgX0jYI/edit?usp=sharing
 5. Runs automatically on a recurring schedule
 
 ## Tech stack
